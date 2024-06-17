@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-FourCardFeatureSection/static/css/main.da8999a0.css",
+    "main.js": "/FrontEndMentor-FourCardFeatureSection/static/js/main.f963f6b0.js",
+    "static/js/453.2914308a.chunk.js": "/FrontEndMentor-FourCardFeatureSection/static/js/453.2914308a.chunk.js",
+    "static/media/icon-karma.svg": "/FrontEndMentor-FourCardFeatureSection/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/FrontEndMentor-FourCardFeatureSection/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "index.html": "/FrontEndMentor-FourCardFeatureSection/index.html",
+    "static/media/icon-team-builder.svg": "/FrontEndMentor-FourCardFeatureSection/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/FrontEndMentor-FourCardFeatureSection/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
+    "main.da8999a0.css.map": "/FrontEndMentor-FourCardFeatureSection/static/css/main.da8999a0.css.map",
+    "main.f963f6b0.js.map": "/FrontEndMentor-FourCardFeatureSection/static/js/main.f963f6b0.js.map",
+    "453.2914308a.chunk.js.map": "/FrontEndMentor-FourCardFeatureSection/static/js/453.2914308a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da8999a0.css",
+    "static/js/main.f963f6b0.js"
+  ]
+}
